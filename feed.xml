@@ -3,10 +3,112 @@
     <title>Test site</title>
     <link href="https://alexandermenze.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://alexandermenze.github.io/gh-pages" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-04-30T16:02:52+02:00</updated>
     <author>
         <name>Max Mustermann</name>
     </author>
     <id>https://alexandermenze.github.io/gh-pages</id>
 
+    <entry>
+        <title>This is my first post from Publii!</title>
+        <author>
+            <name>Max Mustermann</name>
+        </author>
+        <link href="https://alexandermenze.github.io/gh-pages/this-is-my-first-post-from-publii.html"/>
+        <id>https://alexandermenze.github.io/gh-pages/this-is-my-first-post-from-publii.html</id>
+
+        <updated>2022-04-30T16:02:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Hello World, </p>
+<p>this is my first blog post!</p>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<p>Some interesting facts</p>
+<h2>Heading 2</h2>
+<p>Some more interesting things to read here</p>
+<h1>Images</h1>
+<figure ><figure class="post__image"><img loading="lazy"  src="https://alexandermenze.github.io/gh-pages/media/posts/1/500.png" sizes="100vw" srcset="https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/500-xs.png 300w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/500-sm.png 480w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/500-md.png 768w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/500-lg.png 1024w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/500-xl.png 1360w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/500-2xl.png 1600w"  alt="Sample image" width="500" height="500"></figure>
+<figcaption >Caption</figcaption>
+</figure>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://alexandermenze.github.io/gh-pages/media/posts/1/300x200.png" sizes="100vw" srcset="https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/300x200-xs.png 300w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/300x200-sm.png 480w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/300x200-md.png 768w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/300x200-lg.png 1024w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/300x200-xl.png 1360w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/300x200-2xl.png 1600w"  alt="A wide image" width="300" height="200"></figure>
+<p>This was a wide image</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello World, </p>
+<p>this is my first blog post!</p>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<p>Some interesting facts</p>
+<h2>Heading 2</h2>
+<p>Some more interesting things to read here</p>
+<h1>Images</h1>
+<figure ><figure class="post__image"><img loading="lazy"  src="https://alexandermenze.github.io/gh-pages/media/posts/1/500.png" sizes="100vw" srcset="https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/500-xs.png 300w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/500-sm.png 480w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/500-md.png 768w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/500-lg.png 1024w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/500-xl.png 1360w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/500-2xl.png 1600w"  alt="Sample image" width="500" height="500"></figure>
+<figcaption >Caption</figcaption>
+</figure>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://alexandermenze.github.io/gh-pages/media/posts/1/300x200.png" sizes="100vw" srcset="https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/300x200-xs.png 300w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/300x200-sm.png 480w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/300x200-md.png 768w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/300x200-lg.png 1024w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/300x200-xl.png 1360w ,https://alexandermenze.github.io/gh-pages/media/posts/1/responsive/300x200-2xl.png 1600w"  alt="A wide image" width="300" height="200"></figure>
+<p>This was a wide image</p>
+
+<p>Some more content comes here</p>
+<p class="align-center">Centered content goes here</p>
+<p class="align-right">Right aligned content goes here!</p>
+<p> </p>
+<ul>
+<li>This</li>
+<li>is</li>
+<li>an</li>
+<li>unordered</li>
+<li>list</li>
+</ul>
+<ol>
+<li><span style="color: #e03e2d;">This </span></li>
+<li><span style="color: #95a5a6;">is </span></li>
+<li><span style="color: #236fa1;">an </span></li>
+<li><span style="color: #f1c40f;">ordered </span></li>
+<li>list</li>
+</ol>
+<p><a href="https://google.de" title="Google" target="_blank" rel="noopener noreferrer">Click me!</a></p>
+<h2>Smiley-Vergleich</h2>
+<table class="table-bordered table-striped" style="border-collapse: collapse; width: 100%; height: 240.438px;" border="1">
+<tbody>
+<tr style="height: 89.3594px;">
+<td style="width: 33.2855%; height: 89.3594px;"><strong>:)</strong></td>
+<td style="width: 33.2855%; height: 89.3594px;"><strong>Tabellen</strong></td>
+<td style="width: 33.2866%; height: 89.3594px;"><strong>gehen</strong></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td style="width: 33.2855%; height: 50.3594px;">:)</td>
+<td style="width: 33.2855%; height: 50.3594px;">:)</td>
+<td style="width: 33.2866%; height: 50.3594px;">auch</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td style="width: 33.2855%; height: 50.3594px;">:)</td>
+<td style="width: 33.2855%; height: 50.3594px;">:)</td>
+<td style="width: 33.2866%; height: 50.3594px;">:(</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td style="width: 33.2855%; height: 50.3594px;">:)</td>
+<td style="width: 33.2855%; height: 50.3594px;">:)</td>
+<td style="width: 33.2866%; height: 50.3594px;">:)</td>
+</tr>
+</tbody>
+</table>
+<p>Some content before splitter</p>
+<hr>
+<p>Some content after splitter 💯</p>
+<p> </p>
+<p>More:</p>
+<p class="dropcap">This morning i woke up to</p>
+<p> </p>
+<p class="msg msg--info">Information box</p>
+<p class="msg msg--highlight ">Highlight</p>
+<p class="msg msg--success">Success</p>
+<p class="msg msg--warning">Warning</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
